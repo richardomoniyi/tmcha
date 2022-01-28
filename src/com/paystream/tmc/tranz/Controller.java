@@ -9,13 +9,9 @@ package com.paystream.tmc.tranz;
  *
  * @author thefavourofpraise
  */
-public class Tmcha {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class Controller {
+    public void get()
+    {
+        
     }
-    
 }
